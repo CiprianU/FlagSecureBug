@@ -11,3 +11,7 @@
 #  ===> the red bg activity is displayed.
 
 #### Expected behaviour: a blank screenshot should have been displayed.
+
+
+
+###### Reproduced on Nexus 5, Android version 5.1.1, Build number LMY48M
